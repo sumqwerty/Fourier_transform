@@ -13,7 +13,7 @@ to the DFT(Discrete Fourier transform) fuction, which then is converted to set o
 The red dots are the nodes which join to form the traced path. The path is stored as a arraylist of postion vectors, and fed to the DFT function as a 
 complex number. 
 
-# Contorls
+# Controls
 ## There are 2 windows one is the epicycle(EC) window and other is the Trace(T) window
 ### For EC window
 pressing 'd' or 'D' -------------------------- Start the epicycles which will trace the path. 
