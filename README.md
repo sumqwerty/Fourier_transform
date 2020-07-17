@@ -1,7 +1,7 @@
 # Fourier_transform
 Applying Fourier transform on hand drawn continuous curves and traced images, and displaying it as epicycles.(Extension of the code from "the coding train" youtube channel)
 
-This Application allows you to draw free hand continuous loops or trace images to form an continuous outline of the image. The path then is passed
+This Application allows you to draw free hand continuous loops or trace images to form an continuous outline of the image(Image has to be traced manually there's no algorithm that will detect the boundary itself(for now), so you have to trace it manually from the mouse). The path then is passed
 to the DFT(Discrete Fourier transform) fuction, which then is converted to set of epicycles, and these epicycles draw the loop. This can be seen below:
 
 # Hand Drawn curve
