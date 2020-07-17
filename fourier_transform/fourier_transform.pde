@@ -99,6 +99,7 @@ void keyPressed()
   else if(key == 'l' || key == 'L')
   {
     fillDemo();
+    ftime = true
     background(0);
   }
 }
@@ -213,7 +214,7 @@ void loadDraw()
   qwerty();
 }
 
-void fillDemo()
+void fillDemo() // Default path //
 {
   mpos.clear();
   reset();
