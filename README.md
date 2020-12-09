@@ -25,6 +25,8 @@ pressing 'l' or 'L' -------------------------- Clears all the path and sets it b
 
 pressing 'n' or 'N' -------------------------- Opens the T(Trace) window, showing the nodes in red(if there's already a path), and new path can be drawn.
 
+pressing 'o' or 'O' -------------------------- Toggles the visibility of the epicycles while tracing the path.
+
 ### For Trace window
 pressing LEFT mouse button -------------------------- Adds a node to the path.(Basically a pen to draw the path)
 
