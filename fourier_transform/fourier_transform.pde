@@ -99,7 +99,7 @@ void keyPressed()
   else if(key == 'l' || key == 'L')
   {
     fillDemo();
-    ftime = true
+    ftime = true;
     background(0);
   }
 }
